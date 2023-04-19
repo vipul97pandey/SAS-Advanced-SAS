@@ -1,1 +1,6 @@
 # SAS-Advanced-SAS
+
+Project 1 – Flight Data Analysis and Weather-Flight Delay Relationship in 2013 - This case involves exploring and preparing flight data, plane data, and weather metadata for the year 2013. The tasks include creating new variables, dealing with missing data, formatting variables, and exploring the data to extract relevant information. The case also involves forming hypotheses and checking for relationships between weather conditions and flight delays. 
+
+
+Project 2 – Maximizing Revenues in the Laptop Retail Industry: A Data-Driven Approach Using SAS - The project involves analyzing sales data of a leading retail chain in London that sells laptops and accessories. The goal is to define the product strategy and pricing policies that will maximize company projected revenues in 2009. The data set comprises of 4 tables including POS Transactions, Laptops, Store Locations, and London Postcodes. The project charter includes questions related to pricing, location, and sales, such as the effect of time and configuration on laptop prices, the influence of location on sales, and identifying the top-selling stores and their relationship with sales revenue and volume. The final output should include SAS codes, summarized tables, and charts in Excel/Word/PPT format that explain the inferences and insights obtained from the analysis. 
